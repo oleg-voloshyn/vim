@@ -58,8 +58,8 @@ set novisualbell
 set list
 set listchars=trail:•             " Show spaces in end of line
 set autoread                      " Update open files when changed externally
-set relativenumber                " Set relative line numbers
 set laststatus=2
+set number
 set re=1
 set ttyfast
 set lazyredraw
